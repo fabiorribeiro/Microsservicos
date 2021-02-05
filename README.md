@@ -13,11 +13,7 @@ Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável
 
 ---
 
-
 ### Aula 3 - 04/02/2021
-
-Exemplo de implementação cliente/servidor com tecnologia SOAP
-<br>https://github.com/arskom/spyne/blob/master/examples/helloworld_soap.py
 ---
 
 ### Aula 4 - 05/02/2021
@@ -25,11 +21,7 @@ Exemplo de implementação cliente/servidor com tecnologia SOAP
 ---
 
 ### TP1 ()
-
 ---
-
 ### TP3 ()
-
 ---
-
 ### AT ()
