@@ -23,6 +23,10 @@ Apresentação usada na aula
 Exemplo de implementação cliente/servidor com tecnologia SOAP
 <br>https://github.com/arskom/spyne/blob/master/examples/helloworld_soap.py
 
+Status HTTP
+<br>https://httpstatusdogs.com/
+<br>https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+
 ---
 
 ### Aula 4 - 05/02/2021
