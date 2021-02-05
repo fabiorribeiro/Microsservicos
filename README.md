@@ -16,18 +16,23 @@ Teste 2
 
 ---
 
-### Aula 3 - 02/02/2021
-Teste 2
+### Aula 3 - 04/02/2021
+Exemplo de implementação cliente/servidor com tecnologia SOAP
 
 ---
 
-### TP1 (23 de fevereiro)
+### Aula 4 - 05/02/2021
+REST
 
 ---
 
-### TP3 (23 de março)
-
 ---
+
+### TP1 ()
+---
+### TP3 ()
+---
+### AT ()
 
 
 
@@ -48,16 +53,8 @@ Teste
 ---
 
 ### Aula 3 - 04/02/2021
-Exemplo de implementação cliente/servidor com tecnologia SOAP
+
 <br>https://github.com/arskom/spyne/blob/master/examples/helloworld_soap.py
 <br>
 
 ### Aula 4 - 05/02/2021
-
----
-
-### TP1 ()
----
-### TP3 ()
----
-### AT ()
