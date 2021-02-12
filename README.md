@@ -40,6 +40,11 @@ Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável
 
 ---
 
+### Aula 6 - 12/02/2021
+* **[Apresentação usada na aula]()**
+
+---
+
 ### [TP1 (01/03/2021)](https://lms.infnet.edu.br/moodle/mod/assign/view.php?id=223670)
 ---
 ### TP3 ()
