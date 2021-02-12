@@ -1,7 +1,7 @@
 # Desenvolvimento de Software Ágil e Escalável com Microsserviços
 Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável com Microsserviços
 <br>[Link para as aulas](https://infnet.zoom.us/j/97376748620)
-<br>[Link do Google Drive da disciplina](https://drive.google.com/drive/folders/1osJagdG0BF8OBMlKBrH3BdLpG1oxM8PG)
+<br>[Google Drive da disciplina](https://drive.google.com/drive/folders/1osJagdG0BF8OBMlKBrH3BdLpG1oxM8PG)
 
 ---
 
