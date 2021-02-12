@@ -6,12 +6,14 @@ Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável
 ---
 
 ### Aula 1 - 28/01/2021
-Apresentação usada na aula: https://docs.google.com/presentation/d/16cRYYU9KpwOEqP-6REYgsEwNfbbU2zjl_Pf4DykQKU4/edit#slide=id.g5d9207ba27_0_0
+Apresentação usada na aula
+<br>https://docs.google.com/presentation/d/16cRYYU9KpwOEqP-6REYgsEwNfbbU2zjl_Pf4DykQKU4/edit#slide=id.g5d9207ba27_0_0
 
 ---
 
 ### Aula 2 - 29/01/2021
-Teste 2
+Apresentação usada na aula
+<br>https://docs.google.com/presentation/d/1MOK3rrxY-pJP1gU7ovpD16NHN0ocgNnXJV2EjeVWSDM/edit#slide=id.g5d9207ba27_0_0
 
 ---
 
@@ -29,7 +31,15 @@ Status HTTP
 ---
 
 ### Aula 4 - 05/02/2021
-REST
+Apresentação usada na aula
+<br>https://docs.google.com/presentation/d/18tYeKAb3Jh5-KKeUutVIFWNXwWvpYsgTOPDmZAqK40k/edit#slide=id.g5d9207ba27_0_0
+
+---
+
+
+### Aula 5 - 11/02/2021
+Apresentação usada na aula
+<br>https://docs.google.com/presentation/d/1vBK0pUBpR9zreNHT2-Mrj9gCs7U80Z8RycAOxFJTX1s/edit#slide=id.g5d9207ba27_0_0
 
 ---
 
