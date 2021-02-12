@@ -38,12 +38,12 @@ Apresentação usada na aula
 
 
 ### Aula 5 - 11/02/2021
-Apresentação usada na aula
+* #### Apresentação usada na aula
 <br>https://docs.google.com/presentation/d/1vBK0pUBpR9zreNHT2-Mrj9gCs7U80Z8RycAOxFJTX1s/edit#slide=id.g5d9207ba27_0_0
 
-Sugestão de leitura:
-REST in Practice (Capítulos 2 e 4)
-https://learning.oreilly.com/library/view/rest-in-practice/9781449383312/ch04.html
+* #### Sugestão de leitura
+<br>- REST in Practice (Capítulos 2 e 4)
+<br>- https://learning.oreilly.com/library/view/rest-in-practice/9781449383312/ch04.html
 
 ---
 
