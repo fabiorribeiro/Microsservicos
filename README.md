@@ -1,4 +1,3 @@
-### Projeto de Bloco
 # Desenvolvimento de Software Ágil e Escalável com Microsserviços
 Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável com Microsserviços
 <br>Link para as aulas: https://infnet.zoom.us/j/97376748620
@@ -34,7 +33,7 @@ REST
 
 ---
 
-### TP1 ()
+### TP1 (01/03/2021)
 ---
 ### TP3 ()
 ---
