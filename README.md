@@ -58,6 +58,18 @@ Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável
 ### Aula 9 - 25/02/2021
 * **[Microsserviços Orientados ao Domínio](https://docs.google.com/presentation/d/1b38Na_SOZeKHHPtZDK7g3De1Z4gVqfMGFrDFHPOAqv8/edit#slide=id.g5d9207ba27_0_0)**
 
+* **Sugestão de leitura**
+<br>[Building Microservices, 2nd Edition](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/ch02.html#modelling-services-chapter) (Capítulos 2)
+
+* **Material de apoio**
+<br>https://medium.com/design-and-tech-co/implementing-domain-driven-design-for-microservice-architecture-26eb0333d72e
+<br>https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example
+<br>https://dzone.com/articles/the-concept-of-domain-driven-design-explained
+<br>https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8
+<br>https://martinfowler.com/bliki/BoundedContext.html
+
+
+
 ---
 
 
