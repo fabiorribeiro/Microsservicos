@@ -51,12 +51,12 @@ Conteúdo das aulas da disciplina Desenvolvimento de Software Ágil e Escalável
 ---
 
 ### Aula 8 - 19/02/2021
-* **[Como modelar Microsserviços?]()**
+* **[Como modelar Microsserviços?](https://docs.google.com/presentation/d/1Jfr59YaC4r0gIR-Otv1_nO_xHDYTcDyqIeHZIaSC8ng/edit)**
 
 ---
 
 ### Aula 9 - 25/02/2021
-* **[]()**
+* **[Microsserviços Orientados ao Domínio](https://docs.google.com/presentation/d/1b38Na_SOZeKHHPtZDK7g3De1Z4gVqfMGFrDFHPOAqv8/edit#slide=id.g5d9207ba27_0_0)**
 
 ---
 
